@@ -1,2 +1,3 @@
-# lthwgatsby
-LTHW - Gatsby
+# LTHW - Gatsby
+
+[Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/)
